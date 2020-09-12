@@ -7,7 +7,12 @@ With the help of an infamous service known as Clist.by, I created an application
 
 # Technologies Used
 Python, REST APIs, and Advanced Windows Scheduler
+
 # Third-Party Services
 Mailgun, Twilio and Nexmo
+
 # Cloud Platform
 AWS
+
+# Screenshots
+![Contest-Notification-Images](https://i.imgur.com/BAnXIEs.png)
